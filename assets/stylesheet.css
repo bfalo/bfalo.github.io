@@ -44,7 +44,7 @@ body {
 .interpreter textarea  {
   font-size: 14px;
   line-height: normal;
-  height: 340px;
+  height: 370px;
   border: 1px solid #444444;
   background-color: #dfdfdf;
   padding: 0;
@@ -60,6 +60,9 @@ body {
 .interpreter p.small {
     margin-top: 20px;
     font-size: 14px;
+}
+.interpreter a.small {
+    font-size: 13px;
 }
 
 /* Responsive: Portrait tablets and up */
